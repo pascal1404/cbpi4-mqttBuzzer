@@ -1,0 +1,2 @@
+include cbpi4-mqttBuzzer/config.yaml
+recursive-include cbpi4-mqttBuzzer/static *
