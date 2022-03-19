@@ -2,7 +2,7 @@
 
 A Plugin to send alarms via MQTT to a device which has a buzzer installed.
 
-You need to specify the MQTT-topic in the settings-menu. Default is 'cbpi/alarm'.
+You need to specify the MQTT-topic in the settings-menu. Default is `cbpi/alarm`.
 
 The MQTT-Messages are `{alarm: "OK"}` or `{alarm: "Info"}` or `{alarm: "Warning"}` or `{alarm: "Error"}`.
 
