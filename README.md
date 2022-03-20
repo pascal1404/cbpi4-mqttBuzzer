@@ -1,6 +1,6 @@
 # cbpi4-mqttBuzzer
 
-> :Info: **_Attention:_** This Plugin would not be needed anymore! You can get the Notifications at MQTT without these plugin. topic: cbpi/notification
+> :warning: **_Attention:_** This Plugin would not be needed anymore! You can get the Notifications at MQTT without these plugin. topic: cbpi/notification
 
 ~~A Plugin to send alarms via MQTT to a device which has a buzzer installed.~~
 
